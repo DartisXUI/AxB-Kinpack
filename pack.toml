@@ -1,12 +1,12 @@
 name = "Dartis-Craft Alex TrainCraft"
 author = "Dartis_Xui"
 version = "1.0.0"
-pack-format = "packwiz:1.0.0"
+pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "9f219973ac98f8d24784e5475cb9bcbce7cd803a30415fb630e0f9b509f09efa"
+hash = "935e81db82b12bf140fffdadbb0e09ec1452f8830f2514a24e7f56e93f205f4a"
 
 [versions]
 forge = "14.23.5.2855"
