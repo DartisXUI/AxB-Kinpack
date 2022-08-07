@@ -33,14 +33,14 @@ anySpawnMaxDistance=0
 enableStick=true
 #
 # dimension IDs whitelisted for ruins spawning, add custom dimensions IDs here as needed
-allowedDimensions=
+allowedDimensions=0,1,-1
 #
 # make /parseruin rule IDs line up nicely in template files
 # note: overworld (i.e., dimension 0) setting applies to all dimensions
 enableFixedWidthRuleIds=false
 #
 # tileentity blocks, those (nonvanilla)blocks which cannot function without storing their nbt data, full name as stick dictates, seperated by commata
-teblocks=littletiles:blocklittletiles,secretroomsmod:secret_wooden_door,secretroomsmod:secret_redstone,geneticsreborn:airdispersal,geneticsreborn:coalgenerator,redstonepaste:redstonepaste,redstonepaste:stickyrepeater,enderio:block_conduit_bundle,industrialforegoing:material_stonework_factory,refinedstorage:crafter,refinedstorage:grid
+teblocks=littletiles:blocklittletiles, littletiles:premade, secretroomsmod:secret_redstone, secretroomsmod:secret_lever, secretroomsmod:secret_wooden_door, redstonepaste:redstonepaste, redstonepaste:stickyrepeater, redstonepaste:stickycomparator, enderio:block_conduit_bundle
 
 specific_kriffon=75
 specific_lost oasis=75

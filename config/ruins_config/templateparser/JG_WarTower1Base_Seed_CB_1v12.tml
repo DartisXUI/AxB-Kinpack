@@ -13,7 +13,7 @@
 
 # Last Updated: 9 Jun 2018
 
-biomesToSpawnIn=
+biomesToSpawnIn=arctic,badlands,birch forest,dead forest,dead_forest,dead swamp,dead_swamp,dreadlands,dungeon,eerie,eldritch,extreme hills edge,forest,ice plains,ice plains spikes,ice wasteland,magical forest,oak savanna,oak_savanna,ominous woods,mesa,mesa (bryce),plains,polar,polar_chasm,roofed forest,rwg_coldplains,rwg_plains,savanna plateau,shield,silkglades,sludgepit,taiga,tainted lands,volcano,volcanic_island,wasteland,witherlands,birch_forest,smaller_extreme_hills,ice_flats,mutated_ice_flats,mesa_rock,mesa_clear_rock,roofed_forest
 
 uniqueMinDistance=1500
 spawnMinDistance=800
