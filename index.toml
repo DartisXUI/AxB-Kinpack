@@ -2251,7 +2251,7 @@ metafile = true
 
 [[files]]
 file = "mods/crafttweaker.pw.toml"
-hash = "0c9c269ddc14d35c369b8a32dc7b3ac8238567307c106914f00495d82f8bb10d"
+hash = "5822f3236ae2bf82b5bb9054ef6861555c3dda1fb1eebad2da3a3ccd1107bdd0"
 metafile = true
 
 [[files]]
@@ -2301,7 +2301,7 @@ metafile = true
 
 [[files]]
 file = "mods/endercore.pw.toml"
-hash = "d56f22049555a71eb22c72d4a07fdc520af07da3cbb0eeb0283bcef87c370a71"
+hash = "f41bf1c7154b656b303822ea5fe596d4afc97c5712facf03c244d08ae9c129d3"
 metafile = true
 
 [[files]]
@@ -2421,7 +2421,7 @@ metafile = true
 
 [[files]]
 file = "mods/littletiles.pw.toml"
-hash = "2dab4e0faead496b02ee2d053d40acdd1edc9ef4b9411a1b466ee0173b8e38db"
+hash = "1480267daf1a8e0ed69f37a2d1192074fbb1a7c0d7932c3bf48acdcc6eb8a469"
 metafile = true
 
 [[files]]
@@ -2741,7 +2741,7 @@ metafile = true
 
 [[files]]
 file = "mods/u-team-core.pw.toml"
-hash = "a3849fea021077db80b4e709403f500a37652b9304b9355ac086e3c1386f57d0"
+hash = "44e1247ec91d08386ddb64ded3f500d41d278bbe89cdca48c974d340f9c296ed"
 metafile = true
 
 [[files]]
@@ -2761,7 +2761,7 @@ metafile = true
 
 [[files]]
 file = "mods/wanionlib.pw.toml"
-hash = "c7ccd04b86ab565a6728caed521d36346b312aeeb1055dfda5b1e379cb8a9565"
+hash = "7eb42ae64d048660ef6f7c1f61ce32aebae59174f9fbfa45d74aea5afc28fb43"
 metafile = true
 
 [[files]]
