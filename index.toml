@@ -2255,7 +2255,7 @@ metafile = true
 
 [[files]]
 file = "mods/crafttweaker.pw.toml"
-hash = "c3557cf3b273a44dbebc012ec409f7c21557712717067ffa24622564584e573b"
+hash = "5da396732a45b3281362756b78c3de650ecd96a00f13c1c755fcec28955d5883"
 metafile = true
 
 [[files]]
@@ -2365,7 +2365,7 @@ metafile = true
 
 [[files]]
 file = "mods/immersive-railroading.pw.toml"
-hash = "8142b434d15baa49253cf4ca09ee26bee07ac0bce52ae4211979bb1f06257590"
+hash = "70b855508fde6408d710ebe3a697f614f8c7d201d1b04761046925fe9b9736ff"
 metafile = true
 
 [[files]]
@@ -2430,7 +2430,7 @@ metafile = true
 
 [[files]]
 file = "mods/lucraft-core.pw.toml"
-hash = "a3782dbd89f986f0f19822979175f24ffee442daad5628a95411d325bceb1a89"
+hash = "f8769b779556a763c6291358a2fdc82b8e7e573d9e39aa9d1ba45ff488853490"
 metafile = true
 
 [[files]]
@@ -2760,7 +2760,7 @@ metafile = true
 
 [[files]]
 file = "mods/universal-mod-core.pw.toml"
-hash = "2c83c967888d9c46edb2e1191bc5c9e7760a4b290bd7c7dd346a923dd7b63735"
+hash = "aee505dc349c50028928fc4883621696a493222588da6a54092e45df24aa7921"
 metafile = true
 
 [[files]]
