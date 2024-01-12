@@ -2224,6 +2224,16 @@ hash = "5a5219bd45d091fa505a4c98e9282fa721f5228af3a91fe56939c6f347abc285"
 metafile = true
 
 [[files]]
+file = "mods/chisels-bits.pw.toml"
+hash = "ebb08e770587df2f24474edcedde20842993ab136cb458cd99ceda650e4b9acf"
+metafile = true
+
+[[files]]
+file = "mods/clumps.pw.toml"
+hash = "2acbe0f770a8303ecea88bc3ceef4ea6f76cb69206f15229647fb4773f0d9198"
+metafile = true
+
+[[files]]
 file = "mods/codechicken-lib-1-8.pw.toml"
 hash = "49d0ddb311fa9fe9b193996de176a92e0ab2b26b4030344ae80cff4584fdadc4"
 metafile = true
@@ -2279,11 +2289,6 @@ hash = "a9d943add3e0c6a9d63e94732264da610c91b3138aedc07550a4fd63d4e85a53"
 metafile = true
 
 [[files]]
-file = "mods/dragon-mounts-legacy-continued.pw.toml"
-hash = "781b184ee7c08d3a12674041b4977de3f64b5983cacf0c39038d12107164e192"
-metafile = true
-
-[[files]]
 file = "mods/draw-bridge.pw.toml"
 hash = "1ad8460d6bebf5c50f1fafff75030c0295b0678dc426d63aff98871515961f65"
 metafile = true
@@ -2319,6 +2324,11 @@ hash = "751db9d136970e9b4744ce00eea1937644f10710173c82dfde06b373748e5a57"
 metafile = true
 
 [[files]]
+file = "mods/fast-leaf-decay.pw.toml"
+hash = "cd43c995d3b2f2095d27c5ca40cef005adff2dc07a827c7b9a6aff4a14438ffe"
+metafile = true
+
+[[files]]
 file = "mods/flux-networks.pw.toml"
 hash = "a9fa720cb799b8a70ad7411c16c8c61b87883fffba58117ecd3e7976f18c4f40"
 metafile = true
@@ -2349,11 +2359,6 @@ hash = "e105e97942ca227dd0925c73d3a26d30e74820d01e9ea5c458c91409436d515f"
 metafile = true
 
 [[files]]
-file = "mods/heroesexpansion.pw.toml"
-hash = "6661e8feb7b6f674a6704b5cd7f5bb92c1c97e9fc35ed8bcee49c6da83317fa8"
-metafile = true
-
-[[files]]
 file = "mods/hunting-dimension.pw.toml"
 hash = "daccec4c429a0d28654fd62731620f0252d551e4175f824d6a100c1e1c61f534"
 metafile = true
@@ -2374,11 +2379,6 @@ hash = "d5b39f1cf1fe8ed235528aba745d1f1aab1ed52a88eee56c4397523dcfc4ba85"
 metafile = true
 
 [[files]]
-file = "mods/infinity-craft.pw.toml"
-hash = "99a1fbeee134800265509686f09a172beea1ca41356273eae413371268c11ec1"
-metafile = true
-
-[[files]]
 file = "mods/integration-foregoing.pw.toml"
 hash = "87faafe82f6d61165d42928b6dd667aba7d62d4207f359f98a73781b97c994f3"
 metafile = true
@@ -2391,6 +2391,11 @@ metafile = true
 [[files]]
 file = "mods/iron-chests.pw.toml"
 hash = "f5e51601becf4c9f8878530d40cd2ecf232e89e5d9fae6218959a15eee12417d"
+metafile = true
+
+[[files]]
+file = "mods/ivtoolkit.pw.toml"
+hash = "1ce21898ee51d69f97aa0456f339965c7c6763b34853a25de72b30a1e23f42da"
 metafile = true
 
 [[files]]
@@ -2426,11 +2431,6 @@ metafile = true
 [[files]]
 file = "mods/littletiles.pw.toml"
 hash = "6ae186a7bed19f0983c622f4cafc30f5308959d80537215bc5eb45f8a89f7a42"
-metafile = true
-
-[[files]]
-file = "mods/lucraft-core.pw.toml"
-hash = "f8769b779556a763c6291358a2fdc82b8e7e573d9e39aa9d1ba45ff488853490"
 metafile = true
 
 [[files]]
@@ -2579,11 +2579,6 @@ hash = "2e9648786a8cf14889eeac19283e7b534be2195d8c6f8de292d0af4071802f31"
 metafile = true
 
 [[files]]
-file = "mods/quick-leaf-decay.pw.toml"
-hash = "39b626552a282e086380b98d1000b3c6514beeea0b488dc8f29f66a7cf80477b"
-metafile = true
-
-[[files]]
 file = "mods/ranged-pumps.pw.toml"
 hash = "1b49f8635d5003e16b77a59069677ae7268b90b2494f508dc5fe5db239d9d3db"
 metafile = true
@@ -2596,6 +2591,11 @@ metafile = true
 [[files]]
 file = "mods/rebornstorage.pw.toml"
 hash = "58bc415d549e7d6848f874d7063d9cb1951cf2e41e9b4fec5e321566ff98fbeb"
+metafile = true
+
+[[files]]
+file = "mods/recurrent-complex.pw.toml"
+hash = "e57ec26a99b78330ea19d3febd1185ea6de547d7ed11d624c482dbe1e3814f3f"
 metafile = true
 
 [[files]]
@@ -2666,11 +2666,6 @@ metafile = true
 [[files]]
 file = "mods/simple-rpg.pw.toml"
 hash = "7a27f40a9d81021a6f694ead36f25e80e64c8fcd6ebf0d7dfd6058176a5a911c"
-metafile = true
-
-[[files]]
-file = "mods/stargate-network.pw.toml"
-hash = "5eb4ceb8627e9a020eaa9ad51826240f81d198b8b1c0fe1895604b5a48035a01"
 metafile = true
 
 [[files]]
