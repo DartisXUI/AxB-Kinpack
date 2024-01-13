@@ -8,8 +8,6 @@ recipes.addShapeless(<extrautils2:compresseddirt> * 2, [<prefab:block_compressed
 recipes.addShapeless(<extrautils2:compresseddirt>, [<prefab:block_compressed_dirt>]);
 recipes.addShapeless(<prefab:block_compressed_dirt>, [<extrautils2:compresseddirt>]);
 recipes.addShapeless(<minecraft:iron_ore>, [<minecraft:stone>,<ore:dustIron>,<ore:dustIron>,<ore:dustIron>]);
-recipes.addShapeless(<appliedenergistics2:material>, [<orecore:quartz>]);
-recipes.addShapeless(<appliedenergistics2:quartz_ore>, [<orecore:quartz_ore>]);
 recipes.addShapeless(<thermalfoundation:ore:1>, [<orecore:tin_ore>]);
 recipes.addShapeless(<thermalfoundation:ore:2>, [<orecore:silver_ore>]);
 recipes.addShapeless(<thermalfoundation:ore:6>, [<orecore:platinum_ore>]);
