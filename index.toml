@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/absent-by-design.pw.toml"
+hash = "64e3d7b364a86406558cc033bbd1fc936711951888fd1906eba9904789974275"
+metafile = true
+
+[[files]]
 file = "mods/actually-additions.pw.toml"
 hash = "047ea8e0c2ab84aab7e185357a6e5f2dbb75059ba7a0044cd4a22a98dbbcdb84"
 metafile = true
@@ -46,6 +51,11 @@ hash = "7a812e6a1d2e45df6d44834a1fbb5358e7222fed21739601abef5d6bbe00cd97"
 metafile = true
 
 [[files]]
+file = "mods/bibliocraft.pw.toml"
+hash = "ab4781ab6b6f14b93eff468b16cf68a8dc181d3f088b952888dbace39ec6f9bc"
+metafile = true
+
+[[files]]
 file = "mods/birds-foods.pw.toml"
 hash = "e563c31c740ef17483ccda6d3d2b0d64b46666fd91434ca498cb54bc1f9c14ce"
 metafile = true
@@ -53,6 +63,11 @@ metafile = true
 [[files]]
 file = "mods/bookshelf.pw.toml"
 hash = "9b29f8c649940c076771dae2b5de364eaa3b44d65a5f993bdc3482623c82e9b8"
+metafile = true
+
+[[files]]
+file = "mods/chisel.pw.toml"
+hash = "5a5219bd45d091fa505a4c98e9282fa721f5228af3a91fe56939c6f347abc285"
 metafile = true
 
 [[files]]
@@ -93,6 +108,11 @@ metafile = true
 [[files]]
 file = "mods/creativecore.pw.toml"
 hash = "f03aa10a2d6435326875419c039558ac254a4e1a9c9c069a09ab33e0a1742351"
+metafile = true
+
+[[files]]
+file = "mods/ctm.pw.toml"
+hash = "430820ab4fc97024a7c5c188555c57e6fa22f33fe3d5f98d2a75254a0bd07633"
 metafile = true
 
 [[files]]
