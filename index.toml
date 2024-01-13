@@ -6,6 +6,11 @@ hash = "ffbb4bb97f53e5d6f005887b6297acf4274bed2e8e88625fc2d1e61a416afb26"
 metafile = true
 
 [[files]]
+file = "mods/armory-expansion.pw.toml"
+hash = "98ff97a3743b42d3a1237997ce7db804ca772dae2edbb8186d90516701ed7be5"
+metafile = true
+
+[[files]]
 file = "mods/autoreglib.pw.toml"
 hash = "45b89fead492935701ce8092eb3920bce39d824629bd87458eae218aba41d258"
 metafile = true
@@ -31,6 +36,21 @@ hash = "e563c31c740ef17483ccda6d3d2b0d64b46666fd91434ca498cb54bc1f9c14ce"
 metafile = true
 
 [[files]]
+file = "mods/cofh-core.pw.toml"
+hash = "af02d1303bcea63f7db8fe253cd70f74347857fd0b26a58b3961b95bee3b0ffe"
+metafile = true
+
+[[files]]
+file = "mods/cofh-world.pw.toml"
+hash = "197949c14af1c110c380e62e1cbd735fcb46927a95e6b9d6bc8435646632870d"
+metafile = true
+
+[[files]]
+file = "mods/constructs-armory.pw.toml"
+hash = "29da2f11889d325de6b9d702f7e9813fab7b48d0ecf1b5cf4a95dca438867519"
+metafile = true
+
+[[files]]
 file = "mods/cooking-for-blockheads.pw.toml"
 hash = "c0292bc41b72c79485981eb9d641df6beeb71d6a565054f615508d698f2dd127"
 metafile = true
@@ -43,6 +63,11 @@ metafile = true
 [[files]]
 file = "mods/curio.pw.toml"
 hash = "a9d943add3e0c6a9d63e94732264da610c91b3138aedc07550a4fd63d4e85a53"
+metafile = true
+
+[[files]]
+file = "mods/draw-bridge.pw.toml"
+hash = "1ad8460d6bebf5c50f1fafff75030c0295b0678dc426d63aff98871515961f65"
 metafile = true
 
 [[files]]
@@ -96,6 +121,11 @@ hash = "3b5ef81c27805786f2b7e53d12bbb5a7a9ec8eacf8c005dd3f657f731480796a"
 metafile = true
 
 [[files]]
+file = "mods/moar-tinkers.pw.toml"
+hash = "280125566b1c5a3d64fe29ecbbdded6da48231e546143c4e568f6260051c6627"
+metafile = true
+
+[[files]]
 file = "mods/mod-name-tooltip.pw.toml"
 hash = "33797f106d7f44073865b9c54e8f62c50162e9415bc66b4dd9305d947527f39e"
 metafile = true
@@ -121,6 +151,11 @@ hash = "64f81ceb520bde5db97e6787763bb1b7aae2e8a253ba4f6357dc77041010fd33"
 metafile = true
 
 [[files]]
+file = "mods/oreberries.pw.toml"
+hash = "24b61bc846fd7f214cddfd811623cfe60b3b9eb3f1320a2491b406b2da370bf4"
+metafile = true
+
+[[files]]
 file = "mods/prefab.pw.toml"
 hash = "31bbc6945bfacffcf758667208d4a48865f1db6f1ab7e1c748d2721874a17ccc"
 metafile = true
@@ -141,6 +176,26 @@ hash = "260f0330b42aa9e33b8fb8165d06f64d29540b42f121dc9746c6ebcb7ef55158"
 metafile = true
 
 [[files]]
+file = "mods/thermal-foundation.pw.toml"
+hash = "79a7197981768e1d9b23b5eacf22b2ac776d6322c1a4b1eafabd8a1d9c5c1400"
+metafile = true
+
+[[files]]
+file = "mods/tinkers-construct.pw.toml"
+hash = "3e6cb5fcf2c9c4254ca778c8fc61b4d05e895c111c2a98fb6c0b2bc44922e3f2"
+metafile = true
+
+[[files]]
+file = "mods/tinkers-jei.pw.toml"
+hash = "583e16d43279e1392b17be30bc4e72294e908e9f96c9b0d59b3ecbd510f505ec"
+metafile = true
+
+[[files]]
+file = "mods/tinkers-tool-leveling.pw.toml"
+hash = "7ae6b403a7e1f09b7b707d1c7153a5f0e85308e34ffc4a58a4de906ef880a061"
+metafile = true
+
+[[files]]
 file = "mods/titles.pw.toml"
 hash = "7dab730a6c6da25659b955b62d251fcecda6cd10c22872abfe5d88ec005411b4"
 metafile = true
@@ -158,6 +213,11 @@ metafile = true
 [[files]]
 file = "mods/track-api.pw.toml"
 hash = "45a91b2fd9cd1424357aab07b60395c23df4f494e943a6489ef89808845b4f27"
+metafile = true
+
+[[files]]
+file = "mods/u-team-core.pw.toml"
+hash = "44e1247ec91d08386ddb64ded3f500d41d278bbe89cdca48c974d340f9c296ed"
 metafile = true
 
 [[files]]
