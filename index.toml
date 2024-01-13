@@ -36,6 +36,16 @@ hash = "e563c31c740ef17483ccda6d3d2b0d64b46666fd91434ca498cb54bc1f9c14ce"
 metafile = true
 
 [[files]]
+file = "mods/bookshelf.pw.toml"
+hash = "9b29f8c649940c076771dae2b5de364eaa3b44d65a5f993bdc3482623c82e9b8"
+metafile = true
+
+[[files]]
+file = "mods/codechicken-lib-1-8.pw.toml"
+hash = "49d0ddb311fa9fe9b193996de176a92e0ab2b26b4030344ae80cff4584fdadc4"
+metafile = true
+
+[[files]]
 file = "mods/cofh-core.pw.toml"
 hash = "af02d1303bcea63f7db8fe253cd70f74347857fd0b26a58b3961b95bee3b0ffe"
 metafile = true
@@ -68,6 +78,26 @@ metafile = true
 [[files]]
 file = "mods/draw-bridge.pw.toml"
 hash = "1ad8460d6bebf5c50f1fafff75030c0295b0678dc426d63aff98871515961f65"
+metafile = true
+
+[[files]]
+file = "mods/enchanting-plus.pw.toml"
+hash = "82271d9f80ca6ed962d80c3dab877360e98e8afc18ce71376245d33896d46a08"
+metafile = true
+
+[[files]]
+file = "mods/ender-io.pw.toml"
+hash = "90b8f96283a98af81b8a4826e9544ec4326cdcadc72930a76e1c19bc46fdb443"
+metafile = true
+
+[[files]]
+file = "mods/ender-storage-1-8.pw.toml"
+hash = "bf089669a08776c6c3019cc2ed786ee1583fcb297784427b21cff7f9564d3c92"
+metafile = true
+
+[[files]]
+file = "mods/endercore.pw.toml"
+hash = "f41bf1c7154b656b303822ea5fe596d4afc97c5712facf03c244d08ae9c129d3"
 metafile = true
 
 [[files]]
@@ -166,6 +196,11 @@ hash = "2e9648786a8cf14889eeac19283e7b534be2195d8c6f8de292d0af4071802f31"
 metafile = true
 
 [[files]]
+file = "mods/ranged-pumps.pw.toml"
+hash = "1b49f8635d5003e16b77a59069677ae7268b90b2494f508dc5fe5db239d9d3db"
+metafile = true
+
+[[files]]
 file = "mods/redstone-flux.pw.toml"
 hash = "c4730aa68206dba3e9fe24d60b107d914d202ba5e3f5842f06d3fa40ec05d06c"
 metafile = true
@@ -181,8 +216,28 @@ hash = "260f0330b42aa9e33b8fb8165d06f64d29540b42f121dc9746c6ebcb7ef55158"
 metafile = true
 
 [[files]]
+file = "mods/thermal-dynamics.pw.toml"
+hash = "4379e8df5433332fee2b3c351eaf9d281581cdd3ff4340a4a466e497de8eb41b"
+metafile = true
+
+[[files]]
+file = "mods/thermal-expansion.pw.toml"
+hash = "ccedb897162eeffc59668c11a684f66b5d73916b574f9904d7201eba33884904"
+metafile = true
+
+[[files]]
 file = "mods/thermal-foundation.pw.toml"
 hash = "79a7197981768e1d9b23b5eacf22b2ac776d6322c1a4b1eafabd8a1d9c5c1400"
+metafile = true
+
+[[files]]
+file = "mods/thermal-innovation.pw.toml"
+hash = "c2f83774a9967453865917241dc982e1aabba10f5aeba4389244e2d77fc2d04d"
+metafile = true
+
+[[files]]
+file = "mods/thermal-tinkering.pw.toml"
+hash = "f8d2fd09cc595766a37f00b47c6d9ca065aaec86b6d0b043aec61b207a487fe0"
 metafile = true
 
 [[files]]
