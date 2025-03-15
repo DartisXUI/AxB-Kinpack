@@ -3492,6 +3492,11 @@ hash = "6a0db64ad6caf2d910fa52020c0eaf7ae3bcd5558693ad59dd5378fb830c2c06"
 metafile = true
 
 [[files]]
+file = "mods/ai-improvements.pw.toml"
+hash = "d82215725e90de90b17ccc70c15825fc6b2c74100f1e26464ef17391b61d68f3"
+metafile = true
+
+[[files]]
 file = "mods/akashic-tome.pw.toml"
 hash = "965be564aa6d4f69905817140576e58a42a69b2e6ffc881c800b8d8f790c77bb"
 metafile = true
@@ -3560,8 +3565,18 @@ file = "mods/badwithernocookiereloaded-1.12.2-3.4.18.jar"
 hash = "f7df4a095a08d74f553b6223d0059490cd2b9197b15e26721fbfbaf708e8290a"
 
 [[files]]
+file = "mods/base.pw.toml"
+hash = "a177b39c27d5529675c2af3a83529a69a2067eefa76e9ffa80e8f642ac9d839f"
+metafile = true
+
+[[files]]
 file = "mods/baubles.pw.toml"
 hash = "2cc5f913400c0dfe460173edd1e5d9475a09774caf228f41c3e39eba252a7a19"
+metafile = true
+
+[[files]]
+file = "mods/bear-with-me.pw.toml"
+hash = "3a1bb371fee8b1d64d2e5f3288a52fb305668ded62d1fa7d7318b076a4e2b3a6"
 metafile = true
 
 [[files]]
@@ -3602,6 +3617,11 @@ metafile = true
 [[files]]
 file = "mods/chisel.pw.toml"
 hash = "5a5219bd45d091fa505a4c98e9282fa721f5228af3a91fe56939c6f347abc285"
+metafile = true
+
+[[files]]
+file = "mods/chisels-bits.pw.toml"
+hash = "ebb08e770587df2f24474edcedde20842993ab136cb458cd99ceda650e4b9acf"
 metafile = true
 
 [[files]]
@@ -3656,12 +3676,17 @@ metafile = true
 
 [[files]]
 file = "mods/crafttweaker.pw.toml"
-hash = "e5615e669414ef90b0f514f5d9aadc3b8b93730790bbe64c3dbf130d74bbed17"
+hash = "45d91c416875ed594543e20ac97241356d9af6c7357f46cd012afe3efd7b08bb"
 metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
 hash = "f03aa10a2d6435326875419c039558ac254a4e1a9c9c069a09ab33e0a1742351"
+metafile = true
+
+[[files]]
+file = "mods/crop-eating-animals.pw.toml"
+hash = "0314864b9d81bfc8a8dfcf565bc90aa64a49d068b039584ff2639022b09396a3"
 metafile = true
 
 [[files]]
@@ -3677,6 +3702,11 @@ metafile = true
 [[files]]
 file = "mods/curio.pw.toml"
 hash = "a9d943add3e0c6a9d63e94732264da610c91b3138aedc07550a4fd63d4e85a53"
+metafile = true
+
+[[files]]
+file = "mods/dragon-mounts-legacy-continued.pw.toml"
+hash = "781b184ee7c08d3a12674041b4977de3f64b5983cacf0c39038d12107164e192"
 metafile = true
 
 [[files]]
@@ -3820,6 +3850,16 @@ hash = "307efe62b434f30f3d71f905620940656cf609da92fc76a594ae14eed965ad63"
 metafile = true
 
 [[files]]
+file = "mods/malisiscore.pw.toml"
+hash = "30c772d502232b689f11c6cb4740238a4db1e656a21291c307a08f346ca1bd6c"
+metafile = true
+
+[[files]]
+file = "mods/malisisdoors.pw.toml"
+hash = "186416dfcddfb41fe0ecd15bfafc67aec937c36e5dbac496386c9a480d2eb294"
+metafile = true
+
+[[files]]
 file = "mods/mantle.pw.toml"
 hash = "3b5ef81c27805786f2b7e53d12bbb5a7a9ec8eacf8c005dd3f657f731480796a"
 metafile = true
@@ -3831,7 +3871,7 @@ metafile = true
 
 [[files]]
 file = "mods/mmmmmmmmmmmm.pw.toml"
-hash = "a65d8113c60c45892d1b920b2e4ae5a8c666c735617172c71bfb4ab1932b473f"
+hash = "9afedc3dbc837d067d7d87756c0a7f7ec21d582732b346a3167e43222da4c4ab"
 metafile = true
 
 [[files]]
@@ -3910,6 +3950,11 @@ hash = "31bbc6945bfacffcf758667208d4a48865f1db6f1ab7e1c748d2721874a17ccc"
 metafile = true
 
 [[files]]
+file = "mods/progressive-bosses.pw.toml"
+hash = "409cf944f8ef185c60a0c8488b6167e38b919da27077eac370a8e99bac08d37e"
+metafile = true
+
+[[files]]
 file = "mods/quark.pw.toml"
 hash = "2e9648786a8cf14889eeac19283e7b534be2195d8c6f8de292d0af4071802f31"
 metafile = true
@@ -3962,6 +4007,11 @@ metafile = true
 [[files]]
 file = "mods/rftools.pw.toml"
 hash = "57b7614b66288b49d00c60b29f3997676353229262a60bbb3a0ae5f60ab34f2b"
+metafile = true
+
+[[files]]
+file = "mods/rough-mobs-revamped.pw.toml"
+hash = "86083a18020055dd379165e8bd51f5631238beae49424e3b47e30077c1b73088"
 metafile = true
 
 [[files]]
