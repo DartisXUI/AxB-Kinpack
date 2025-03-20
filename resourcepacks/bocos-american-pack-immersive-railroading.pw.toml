@@ -1,0 +1,13 @@
+name = "BoCo's American Pack (Immersive Railroading)"
+filename = "BoCo's_American_Pack_1.4.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "dcde9060debee99bdd8c7dfb767e2fdc61c7a7fc"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2915211
+project-id = 355874

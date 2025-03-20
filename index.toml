@@ -3477,6 +3477,14 @@ file = "config/tconstruct.cfg"
 hash = "6d57d986daefd5e3517a356e4a710bc08a813194db39955286e57db0e4f185e9"
 
 [[files]]
+file = "mods/Decocraft-2.6.3.7_1.12.2.jar"
+hash = "8f1a4791109d0cde722705bdbf9438d3783ee4b40fc7608e00aae19c2a2e568b"
+
+[[files]]
+file = "mods/PTRLib-1.0.5.jar"
+hash = "d6e815a765bea4c419176aba73b7e59c0c6095b59ec37894b2e221858fcd81bd"
+
+[[files]]
 file = "mods/absent-by-design.pw.toml"
 hash = "64e3d7b364a86406558cc033bbd1fc936711951888fd1906eba9904789974275"
 metafile = true
@@ -3607,11 +3615,6 @@ metafile = true
 [[files]]
 file = "mods/blockcraftery.pw.toml"
 hash = "e2f14e48f0d4b8de42d67ba71c65c2b50e0e5ee9c823f825087c9bd5da11d5b4"
-metafile = true
-
-[[files]]
-file = "mods/blus-sign-pack-mts-iv.pw.toml"
-hash = "603ad8e2a14181e4a427c3fd53a918d3b1964bc294f2c5ec70d69c282765e4e8"
 metafile = true
 
 [[files]]
@@ -3805,11 +3808,6 @@ hash = "70b855508fde6408d710ebe3a697f614f8c7d201d1b04761046925fe9b9736ff"
 metafile = true
 
 [[files]]
-file = "mods/immersive-vehicles-trin-emergency-pack.pw.toml"
-hash = "db02d387739038a9f6fc75156ef2be14ecfdf880f8b9dc162517e7b24256cd89"
-metafile = true
-
-[[files]]
 file = "mods/industrial-foregoing.pw.toml"
 hash = "d5b39f1cf1fe8ed235528aba745d1f1aab1ed52a88eee56c4397523dcfc4ba85"
 metafile = true
@@ -3827,11 +3825,6 @@ metafile = true
 [[files]]
 file = "mods/iron-chests.pw.toml"
 hash = "f5e51601becf4c9f8878530d40cd2ecf232e89e5d9fae6218959a15eee12417d"
-metafile = true
-
-[[files]]
-file = "mods/iv-tesp.pw.toml"
-hash = "379e1f7379d51dc7451213affdc7e800b62207a5caab09b7a2d5d295d7d682f6"
 metafile = true
 
 [[files]]
@@ -4165,11 +4158,6 @@ hash = "c65124f713c2ae6de839a43fa2cea6b1e3c746e29753705a60606ec677b4ca01"
 metafile = true
 
 [[files]]
-file = "mods/trin-part-pack.pw.toml"
-hash = "1ef8210fc9ee0ff1f9eddb2393a4a1f77e17b27206c911a25ad027aac8afcfd0"
-metafile = true
-
-[[files]]
 file = "mods/u-team-core.pw.toml"
 hash = "0402631d0bc1cde268123b1d2113969ab0b960fc32c70362d85ab111e7c4dd1d"
 metafile = true
@@ -4207,6 +4195,11 @@ metafile = true
 [[files]]
 file = "options.txt"
 hash = "3b658566b1d5b1340c9731d23809eb1cea91b8622525a8436a6fb106c86d4309"
+
+[[files]]
+file = "resourcepacks/bocos-american-pack-immersive-railroading.pw.toml"
+hash = "d6e683308ba007f9b77e27dc153a4b25a98d56090685966809acceb88333210b"
+metafile = true
 
 [[files]]
 file = "resourcepacks/darkraiders-freight.pw.toml"
