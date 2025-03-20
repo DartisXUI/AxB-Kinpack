@@ -3813,11 +3813,6 @@ hash = "70b855508fde6408d710ebe3a697f614f8c7d201d1b04761046925fe9b9736ff"
 metafile = true
 
 [[files]]
-file = "mods/immersive-vehicles-trin-emergency-pack.pw.toml"
-hash = "db02d387739038a9f6fc75156ef2be14ecfdf880f8b9dc162517e7b24256cd89"
-metafile = true
-
-[[files]]
 file = "mods/industrial-foregoing.pw.toml"
 hash = "d5b39f1cf1fe8ed235528aba745d1f1aab1ed52a88eee56c4397523dcfc4ba85"
 metafile = true
@@ -4215,11 +4210,6 @@ metafile = true
 [[files]]
 file = "options.txt"
 hash = "3b658566b1d5b1340c9731d23809eb1cea91b8622525a8436a6fb106c86d4309"
-
-[[files]]
-file = "resourcepacks/bocos-american-pack-immersive-railroading.pw.toml"
-hash = "d6e683308ba007f9b77e27dc153a4b25a98d56090685966809acceb88333210b"
-metafile = true
 
 [[files]]
 file = "resourcepacks/darkraiders-freight.pw.toml"
