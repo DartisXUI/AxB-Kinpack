@@ -3477,6 +3477,14 @@ file = "config/tconstruct.cfg"
 hash = "6d57d986daefd5e3517a356e4a710bc08a813194db39955286e57db0e4f185e9"
 
 [[files]]
+file = "mods/Decocraft-2.6.3.7_1.12.2.jar"
+hash = "8f1a4791109d0cde722705bdbf9438d3783ee4b40fc7608e00aae19c2a2e568b"
+
+[[files]]
+file = "mods/PTRLib-1.0.5.jar"
+hash = "d6e815a765bea4c419176aba73b7e59c0c6095b59ec37894b2e221858fcd81bd"
+
+[[files]]
 file = "mods/absent-by-design.pw.toml"
 hash = "64e3d7b364a86406558cc033bbd1fc936711951888fd1906eba9904789974275"
 metafile = true
@@ -3707,11 +3715,6 @@ metafile = true
 [[files]]
 file = "mods/curio.pw.toml"
 hash = "a9d943add3e0c6a9d63e94732264da610c91b3138aedc07550a4fd63d4e85a53"
-metafile = true
-
-[[files]]
-file = "mods/decocraft.pw.toml"
-hash = "9bfe94e3bfc1a392eca371400b4dc82cd24d5bd9c05fa137116690b3e3c1a639"
 metafile = true
 
 [[files]]
@@ -3997,11 +4000,6 @@ metafile = true
 [[files]]
 file = "mods/progressive-bosses.pw.toml"
 hash = "409cf944f8ef185c60a0c8488b6167e38b919da27077eac370a8e99bac08d37e"
-metafile = true
-
-[[files]]
-file = "mods/ptrlib.pw.toml"
-hash = "b4a05a52e66b8801b103553129b214da4f36a1e3f03b2628f72f3804a6bc1445"
 metafile = true
 
 [[files]]
