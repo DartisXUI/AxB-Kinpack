@@ -1,0 +1,13 @@
+name = "Blu's Sign Pack [MTS/IV]"
+filename = "Blu's Sign Pack-1.12.2-1.2.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "dbdd2afa34a9af19c286edced37ebf00ccbe7f39"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5190179
+project-id = 544294

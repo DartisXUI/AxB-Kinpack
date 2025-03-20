@@ -1,0 +1,13 @@
+name = "[MTS/Immersive Vehicles] Miszko's Polish Trackside Decor Pack"
+filename = "Miszko's Polish Trackside Decor Pack 1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "88a39391bc9a03ed9c4e79af648ea2f775e4e8b0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6193277
+project-id = 498874

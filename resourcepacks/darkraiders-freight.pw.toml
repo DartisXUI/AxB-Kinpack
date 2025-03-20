@@ -1,0 +1,13 @@
+name = "IR DarkRaider's Modern Freight [Immersive Railroading Pack]"
+filename = "DarkRaider's Modern Freight.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f6f02e7ddc5816637f2e46f1fbe6dd8c7dbb251f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5391836
+project-id = 341200

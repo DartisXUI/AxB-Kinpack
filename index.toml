@@ -3610,6 +3610,11 @@ hash = "e2f14e48f0d4b8de42d67ba71c65c2b50e0e5ee9c823f825087c9bd5da11d5b4"
 metafile = true
 
 [[files]]
+file = "mods/blus-sign-pack-mts-iv.pw.toml"
+hash = "603ad8e2a14181e4a427c3fd53a918d3b1964bc294f2c5ec70d69c282765e4e8"
+metafile = true
+
+[[files]]
 file = "mods/bookshelf.pw.toml"
 hash = "9b29f8c649940c076771dae2b5de364eaa3b44d65a5f993bdc3482623c82e9b8"
 metafile = true
@@ -3705,6 +3710,11 @@ hash = "a9d943add3e0c6a9d63e94732264da610c91b3138aedc07550a4fd63d4e85a53"
 metafile = true
 
 [[files]]
+file = "mods/decocraft.pw.toml"
+hash = "9bfe94e3bfc1a392eca371400b4dc82cd24d5bd9c05fa137116690b3e3c1a639"
+metafile = true
+
+[[files]]
 file = "mods/dragon-mounts-legacy-continued.pw.toml"
 hash = "781b184ee7c08d3a12674041b4977de3f64b5983cacf0c39038d12107164e192"
 metafile = true
@@ -3770,6 +3780,16 @@ hash = "b3bf53323fcae0f8647ce23c60fffc003abcd315ece3772822f3130d7d5cd52f"
 metafile = true
 
 [[files]]
+file = "mods/fwp-mts-iv-american-signs-and-traffic-signals-pack.pw.toml"
+hash = "e109716cbdaee74fabe3ad484fff37e6e3112527ebd6a7c699de881b06dda2d6"
+metafile = true
+
+[[files]]
+file = "mods/gt-craft-iv-mts.pw.toml"
+hash = "1bbf241bd76c3168cf6fbe7a9dbad49dc4eca1a0b991097b4e57da21a95b0c22"
+metafile = true
+
+[[files]]
 file = "mods/gunpowderlib.pw.toml"
 hash = "e105e97942ca227dd0925c73d3a26d30e74820d01e9ea5c458c91409436d515f"
 metafile = true
@@ -3790,6 +3810,11 @@ hash = "70b855508fde6408d710ebe3a697f614f8c7d201d1b04761046925fe9b9736ff"
 metafile = true
 
 [[files]]
+file = "mods/immersive-vehicles-trin-emergency-pack.pw.toml"
+hash = "db02d387739038a9f6fc75156ef2be14ecfdf880f8b9dc162517e7b24256cd89"
+metafile = true
+
+[[files]]
 file = "mods/industrial-foregoing.pw.toml"
 hash = "d5b39f1cf1fe8ed235528aba745d1f1aab1ed52a88eee56c4397523dcfc4ba85"
 metafile = true
@@ -3807,6 +3832,11 @@ metafile = true
 [[files]]
 file = "mods/iron-chests.pw.toml"
 hash = "f5e51601becf4c9f8878530d40cd2ecf232e89e5d9fae6218959a15eee12417d"
+metafile = true
+
+[[files]]
+file = "mods/iv-tesp.pw.toml"
+hash = "379e1f7379d51dc7451213affdc7e800b62207a5caab09b7a2d5d295d7d682f6"
 metafile = true
 
 [[files]]
@@ -3870,6 +3900,11 @@ hash = "46b6fe4b838212d19da58719e4782d0c54689f3cbec148921c41a3297f96caf6"
 metafile = true
 
 [[files]]
+file = "mods/minecraft-transport-simulator.pw.toml"
+hash = "8b5ad0d2f0ea065c8989eea4fee3617b5cf131b4a8be8845d39e54921998bf96"
+metafile = true
+
+[[files]]
 file = "mods/mmmmmmmmmmmm.pw.toml"
 hash = "9afedc3dbc837d067d7d87756c0a7f7ec21d582732b346a3167e43222da4c4ab"
 metafile = true
@@ -3887,6 +3922,16 @@ metafile = true
 [[files]]
 file = "mods/more-overlays.pw.toml"
 hash = "99d1fe22e1ddc58a0a43f64a18a4e06298ef76c9f7608f57a7f0cee0d64fecaa"
+metafile = true
+
+[[files]]
+file = "mods/more-road.pw.toml"
+hash = "0e6809107405fabdd9ef11c05e293838acfcdee6900b0a9a5bb9bb04e8277df0"
+metafile = true
+
+[[files]]
+file = "mods/mts-immersive-vehicles-miszkos-polish-trackside.pw.toml"
+hash = "2a68ac0b84b502a1837d5a9b8994f27a29750b64b387ccf8f252430a5413092e"
 metafile = true
 
 [[files]]
@@ -3952,6 +3997,11 @@ metafile = true
 [[files]]
 file = "mods/progressive-bosses.pw.toml"
 hash = "409cf944f8ef185c60a0c8488b6167e38b919da27077eac370a8e99bac08d37e"
+metafile = true
+
+[[files]]
+file = "mods/ptrlib.pw.toml"
+hash = "b4a05a52e66b8801b103553129b214da4f36a1e3f03b2628f72f3804a6bc1445"
 metafile = true
 
 [[files]]
@@ -4115,8 +4165,18 @@ hash = "45a91b2fd9cd1424357aab07b60395c23df4f494e943a6489ef89808845b4f27"
 metafile = true
 
 [[files]]
+file = "mods/transport-simulator-official-vehicle-set.pw.toml"
+hash = "c096647f745901c648df9095707494455147a89728799e10bafb7fbf8c1fcef8"
+metafile = true
+
+[[files]]
 file = "mods/traverse-reforged.pw.toml"
 hash = "c65124f713c2ae6de839a43fa2cea6b1e3c746e29753705a60606ec677b4ca01"
+metafile = true
+
+[[files]]
+file = "mods/trin-part-pack.pw.toml"
+hash = "1ef8210fc9ee0ff1f9eddb2393a4a1f77e17b27206c911a25ad027aac8afcfd0"
 metafile = true
 
 [[files]]
@@ -4135,6 +4195,16 @@ hash = "aee505dc349c50028928fc4883621696a493222588da6a54092e45df24aa7921"
 metafile = true
 
 [[files]]
+file = "mods/unu-civilian-pack-for-mts.pw.toml"
+hash = "cbbd82e18f647f61ccaaaca8c925e2842adb8040c45cf671e109fe709e0525d2"
+metafile = true
+
+[[files]]
+file = "mods/unu-parts-pack.pw.toml"
+hash = "d284c69d061380af9db7b4f5e1384198241d54ff714706459292570508c987b3"
+metafile = true
+
+[[files]]
 file = "mods/wanionlib.pw.toml"
 hash = "7eb42ae64d048660ef6f7c1f61ce32aebae59174f9fbfa45d74aea5afc28fb43"
 metafile = true
@@ -4147,6 +4217,21 @@ metafile = true
 [[files]]
 file = "options.txt"
 hash = "3b658566b1d5b1340c9731d23809eb1cea91b8622525a8436a6fb106c86d4309"
+
+[[files]]
+file = "resourcepacks/bocos-american-pack-immersive-railroading.pw.toml"
+hash = "d6e683308ba007f9b77e27dc153a4b25a98d56090685966809acceb88333210b"
+metafile = true
+
+[[files]]
+file = "resourcepacks/darkraiders-freight.pw.toml"
+hash = "f1b2066a8c0cf5f44e849dce3cf175a9b09711f6f76b671f78bddb463a87c616"
+metafile = true
+
+[[files]]
+file = "resourcepacks/ir-american-steam-loco-addon-pack.pw.toml"
+hash = "6418b91cb812f2ee4cafbde298ba4726da36ff6a8ff9c3a7de48c395c2d9825b"
+metafile = true
 
 [[files]]
 file = "scripts/recipes.zs"
