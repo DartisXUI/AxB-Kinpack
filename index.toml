@@ -3477,14 +3477,6 @@ file = "config/tconstruct.cfg"
 hash = "6d57d986daefd5e3517a356e4a710bc08a813194db39955286e57db0e4f185e9"
 
 [[files]]
-file = "mods/Decocraft-2.6.3.7_1.12.2.jar"
-hash = "8f1a4791109d0cde722705bdbf9438d3783ee4b40fc7608e00aae19c2a2e568b"
-
-[[files]]
-file = "mods/PTRLib-1.0.5.jar"
-hash = "d6e815a765bea4c419176aba73b7e59c0c6095b59ec37894b2e221858fcd81bd"
-
-[[files]]
 file = "mods/absent-by-design.pw.toml"
 hash = "64e3d7b364a86406558cc033bbd1fc936711951888fd1906eba9904789974275"
 metafile = true
@@ -3559,11 +3551,6 @@ hash = "7e2c5d0cf480bf53156085e3036ae07f1506ab39e771afa3dc95bf4b8d7df763"
 metafile = true
 
 [[files]]
-file = "mods/atlcraft-candles-mod.pw.toml"
-hash = "b31a9bd0f102bb98a218c91904022e9ac53624f85dd225aefdb31d1657addeae"
-metafile = true
-
-[[files]]
 file = "mods/autoreglib.pw.toml"
 hash = "45b89fead492935701ce8092eb3920bce39d824629bd87458eae218aba41d258"
 metafile = true
@@ -3625,11 +3612,6 @@ metafile = true
 [[files]]
 file = "mods/chisel.pw.toml"
 hash = "5a5219bd45d091fa505a4c98e9282fa721f5228af3a91fe56939c6f347abc285"
-metafile = true
-
-[[files]]
-file = "mods/chisels-bits.pw.toml"
-hash = "ebb08e770587df2f24474edcedde20842993ab136cb458cd99ceda650e4b9acf"
 metafile = true
 
 [[files]]
@@ -3778,16 +3760,6 @@ hash = "b3bf53323fcae0f8647ce23c60fffc003abcd315ece3772822f3130d7d5cd52f"
 metafile = true
 
 [[files]]
-file = "mods/fwp-mts-iv-american-signs-and-traffic-signals-pack.pw.toml"
-hash = "e109716cbdaee74fabe3ad484fff37e6e3112527ebd6a7c699de881b06dda2d6"
-metafile = true
-
-[[files]]
-file = "mods/gt-craft-iv-mts.pw.toml"
-hash = "1bbf241bd76c3168cf6fbe7a9dbad49dc4eca1a0b991097b4e57da21a95b0c22"
-metafile = true
-
-[[files]]
 file = "mods/gunpowderlib.pw.toml"
 hash = "e105e97942ca227dd0925c73d3a26d30e74820d01e9ea5c458c91409436d515f"
 metafile = true
@@ -3888,11 +3860,6 @@ hash = "46b6fe4b838212d19da58719e4782d0c54689f3cbec148921c41a3297f96caf6"
 metafile = true
 
 [[files]]
-file = "mods/minecraft-transport-simulator.pw.toml"
-hash = "8b5ad0d2f0ea065c8989eea4fee3617b5cf131b4a8be8845d39e54921998bf96"
-metafile = true
-
-[[files]]
 file = "mods/mmmmmmmmmmmm.pw.toml"
 hash = "ae9b5814a439a9c6ce570119e57e7a12e354951f701d98dfa3cb18045cdefcd4"
 metafile = true
@@ -3915,11 +3882,6 @@ metafile = true
 [[files]]
 file = "mods/more-road.pw.toml"
 hash = "0e6809107405fabdd9ef11c05e293838acfcdee6900b0a9a5bb9bb04e8277df0"
-metafile = true
-
-[[files]]
-file = "mods/mts-immersive-vehicles-miszkos-polish-trackside.pw.toml"
-hash = "2a68ac0b84b502a1837d5a9b8994f27a29750b64b387ccf8f252430a5413092e"
 metafile = true
 
 [[files]]
@@ -4148,11 +4110,6 @@ hash = "45a91b2fd9cd1424357aab07b60395c23df4f494e943a6489ef89808845b4f27"
 metafile = true
 
 [[files]]
-file = "mods/transport-simulator-official-vehicle-set.pw.toml"
-hash = "c096647f745901c648df9095707494455147a89728799e10bafb7fbf8c1fcef8"
-metafile = true
-
-[[files]]
 file = "mods/traverse-reforged.pw.toml"
 hash = "c65124f713c2ae6de839a43fa2cea6b1e3c746e29753705a60606ec677b4ca01"
 metafile = true
@@ -4173,16 +4130,6 @@ hash = "aee505dc349c50028928fc4883621696a493222588da6a54092e45df24aa7921"
 metafile = true
 
 [[files]]
-file = "mods/unu-civilian-pack-for-mts.pw.toml"
-hash = "cbbd82e18f647f61ccaaaca8c925e2842adb8040c45cf671e109fe709e0525d2"
-metafile = true
-
-[[files]]
-file = "mods/unu-parts-pack.pw.toml"
-hash = "d284c69d061380af9db7b4f5e1384198241d54ff714706459292570508c987b3"
-metafile = true
-
-[[files]]
 file = "mods/wanionlib.pw.toml"
 hash = "7eb42ae64d048660ef6f7c1f61ce32aebae59174f9fbfa45d74aea5afc28fb43"
 metafile = true
@@ -4195,21 +4142,6 @@ metafile = true
 [[files]]
 file = "options.txt"
 hash = "3b658566b1d5b1340c9731d23809eb1cea91b8622525a8436a6fb106c86d4309"
-
-[[files]]
-file = "resourcepacks/bocos-american-pack-immersive-railroading.pw.toml"
-hash = "d6e683308ba007f9b77e27dc153a4b25a98d56090685966809acceb88333210b"
-metafile = true
-
-[[files]]
-file = "resourcepacks/darkraiders-freight.pw.toml"
-hash = "f1b2066a8c0cf5f44e849dce3cf175a9b09711f6f76b671f78bddb463a87c616"
-metafile = true
-
-[[files]]
-file = "resourcepacks/ir-american-steam-loco-addon-pack.pw.toml"
-hash = "6418b91cb812f2ee4cafbde298ba4726da36ff6a8ff9c3a7de48c395c2d9825b"
-metafile = true
 
 [[files]]
 file = "scripts/recipes.zs"
