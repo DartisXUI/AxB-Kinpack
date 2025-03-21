@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = "addonpacks/abilities.html"
+hash = "d31ef06aec542cf73a043e0bb599268baa13d375d6b98e36b6a4d9839c264f56"
+
+[[files]]
+file = "addonpacks/sps.zip"
+hash = "2097e6c3118f80a6e000b1610155db5137a09639429de83fd63d294280ac6634"
+
+[[files]]
 file = "config/KeepingInventory.cfg"
 hash = "847f2c0286f5e1f94e39fdde76253f848bbab3ce1e31e7fffaafc1e3c71644b0"
 
@@ -121,12 +129,20 @@ file = "config/ftbutilities.cfg"
 hash = "5a55f400ea4866602fe6ae4c185ce6d48cb42c17f4be1c3c7f722a99127ea994"
 
 [[files]]
+file = "config/heroesexpansion.cfg"
+hash = "a2cda1b58167c61a4ef3a41215b4d48f83d11a3b8735a9d1bb4b6b80089854ec"
+
+[[files]]
 file = "config/huntingdim/huntingdim.cfg"
 hash = "90fefa72f012e5c41b4f3fa1320cdbb0e0bd780c00702ceff7d5dd67c8840c1a"
 
 [[files]]
 file = "config/jei/itemBlacklist.cfg"
 hash = "faf20a8a19cec4874bb075fa9115e684504ccf06f58dff4397f25f09c80f8e15"
+
+[[files]]
+file = "config/lucraftcore.cfg"
+hash = "7b53de62ae7313ade86360e9b5819a6560729822f58bef47ef30a5dad9d9553f"
 
 [[files]]
 file = "config/microblocks.cfg"
@@ -3765,6 +3781,11 @@ hash = "e105e97942ca227dd0925c73d3a26d30e74820d01e9ea5c458c91409436d515f"
 metafile = true
 
 [[files]]
+file = "mods/heroesexpansion.pw.toml"
+hash = "6661e8feb7b6f674a6704b5cd7f5bb92c1c97e9fc35ed8bcee49c6da83317fa8"
+metafile = true
+
+[[files]]
 file = "mods/horse-tweaks.pw.toml"
 hash = "db8018266ead23ac0382439a100b09af5a48f22721e96972322ff9a7eba34e5c"
 metafile = true
@@ -3837,6 +3858,11 @@ metafile = true
 [[files]]
 file = "mods/littletiles.pw.toml"
 hash = "307efe62b434f30f3d71f905620940656cf609da92fc76a594ae14eed965ad63"
+metafile = true
+
+[[files]]
+file = "mods/lucraft-core.pw.toml"
+hash = "f8769b779556a763c6291358a2fdc82b8e7e573d9e39aa9d1ba45ff488853490"
 metafile = true
 
 [[files]]
