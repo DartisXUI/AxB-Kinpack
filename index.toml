@@ -2068,6 +2068,11 @@ hash = "6a0db64ad6caf2d910fa52020c0eaf7ae3bcd5558693ad59dd5378fb830c2c06"
 metafile = true
 
 [[files]]
+file = "mods/aether-ii.pw.toml"
+hash = "ece5f8ded1b8d34341e11fe955d0dca5711f651424cd7e13a2106b11002fe051"
+metafile = true
+
+[[files]]
 file = "mods/ai-improvements.pw.toml"
 hash = "d82215725e90de90b17ccc70c15825fc6b2c74100f1e26464ef17391b61d68f3"
 metafile = true
@@ -2271,6 +2276,11 @@ hash = "a9d943add3e0c6a9d63e94732264da610c91b3138aedc07550a4fd63d4e85a53"
 metafile = true
 
 [[files]]
+file = "mods/cyclic.pw.toml"
+hash = "a1026af48a53ef8abe2446a994d6f13db4e8cc73097dd508781ac2d99771ed19"
+metafile = true
+
+[[files]]
 file = "mods/dragon-mounts-legacy-continued.pw.toml"
 hash = "781b184ee7c08d3a12674041b4977de3f64b5983cacf0c39038d12107164e192"
 metafile = true
@@ -2401,6 +2411,11 @@ hash = "34bcd62bca78729d9c295bb8d7cbfde2239af84c86719744a4e8c0af7e69f150"
 metafile = true
 
 [[files]]
+file = "mods/just-enough-calculation.pw.toml"
+hash = "9659d8f844faa0c1c92e914d7969b6ac1ecf2b6a8155834f8bfebc4193c30d45"
+metafile = true
+
+[[files]]
 file = "mods/just-enough-resources-jer.pw.toml"
 hash = "80d3649857b9a454a12348abdb6fcc45a1d09d4ed7ce40d8034db113e91d7020"
 metafile = true
@@ -2506,6 +2521,11 @@ hash = "2b0fdda6a16cf58c3b1ec4e77bc7b6acb9c605d2ff6a9d502aa6df81069df92a"
 metafile = true
 
 [[files]]
+file = "mods/objectpriorities.pw.toml"
+hash = "d354e9f4c35e14f502209abf2a6cbd8032be4aff3296ab117fda5ca9031dc7de"
+metafile = true
+
+[[files]]
 file = "mods/openblocks.pw.toml"
 hash = "978ca201971ac81b047c0be1caeaa23df557610507c70f0a8c88ba6549caa624"
 metafile = true
@@ -2523,6 +2543,11 @@ metafile = true
 [[files]]
 file = "mods/oreberries.pw.toml"
 hash = "24b61bc846fd7f214cddfd811623cfe60b3b9eb3f1320a2491b406b2da370bf4"
+metafile = true
+
+[[files]]
+file = "mods/patchouli.pw.toml"
+hash = "bf3ab3065a3d3cbf04b5632a6088c9db9381c54c2149c8713748dde1b5859472"
 metafile = true
 
 [[files]]
@@ -2633,6 +2658,11 @@ metafile = true
 [[files]]
 file = "mods/the-one-probe.pw.toml"
 hash = "260f0330b42aa9e33b8fb8165d06f64d29540b42f121dc9746c6ebcb7ef55158"
+metafile = true
+
+[[files]]
+file = "mods/the-twilight-forest.pw.toml"
+hash = "7af0b8a8e634eab7ecd9e6401ce3c71d6ec1c2c5dae078dee5a526898f88c72c"
 metafile = true
 
 [[files]]
