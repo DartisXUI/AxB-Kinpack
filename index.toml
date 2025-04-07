@@ -2495,6 +2495,11 @@ hash = "0e6809107405fabdd9ef11c05e293838acfcdee6900b0a9a5bb9bb04e8277df0"
 metafile = true
 
 [[files]]
+file = "mods/mrtjpcore.pw.toml"
+hash = "ae849763d546d4fea042e339ec74f8b0373472f76aeda340cd6bced6ac7754bd"
+metafile = true
+
+[[files]]
 file = "mods/mystical-agriculture.pw.toml"
 hash = "6946b292f2f689e505e35135c43f6d2db9430929b473c30b569698c99cb266fd"
 metafile = true
