@@ -2195,6 +2195,11 @@ hash = "9b29f8c649940c076771dae2b5de364eaa3b44d65a5f993bdc3482623c82e9b8"
 metafile = true
 
 [[files]]
+file = "mods/cb-multipart.pw.toml"
+hash = "8543599cc981cc25fa739c9efad2ffd6ddcbcd10b681e47875bf5e7f87a9262f"
+metafile = true
+
+[[files]]
 file = "mods/chisel.pw.toml"
 hash = "5a5219bd45d091fa505a4c98e9282fa721f5228af3a91fe56939c6f347abc285"
 metafile = true
