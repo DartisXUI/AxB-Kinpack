@@ -2046,7 +2046,7 @@ hash = "ad431b81355ef630fc68d2bad9ea994d0d8856cfb2caff1bcf5c51b0b8ea2c7b"
 
 [[files]]
 file = "config/ruins_config/templateparser/train-station.tml"
-hash = "5ec0b3c71954e3b58bdca1021bf5dc1d200ee989726ac9c59e05aee45494249f"
+hash = "4b7ec46f9c7f556b75a241faa97e9a9f58e3ad68a03d784311ecfcb6e9a9c4d8"
 
 [[files]]
 file = "config/ruins_config/templateparser/trainstation-mkx.tml"
