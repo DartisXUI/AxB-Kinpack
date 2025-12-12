@@ -2808,7 +2808,7 @@ metafile = true
 
 [[files]]
 file = "mods/universal-mod-core.pw.toml"
-hash = "aee505dc349c50028928fc4883621696a493222588da6a54092e45df24aa7921"
+hash = "96899e5360790cf71d292c3c6f0d5407234f13f636135f493a1f45251d145ae0"
 metafile = true
 
 [[files]]
